@@ -6,6 +6,10 @@ An interactive HR Analytics Dashboard built using Power BI to analyze employee a
 
 This dashboard provides insights into employee attrition based on department, gender, job role, salary slab, and years of experience.
 
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.jpg)
+
 ## 🎯 Objectives
 
 - Analyze overall employee attrition
